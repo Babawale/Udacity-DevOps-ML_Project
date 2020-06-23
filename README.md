@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://app.circleci.com/pipelines/github/Babawale/Udacity-DevOps-ML_Project/14/workflows/261e1f03-af78-4e51-a940-8c788f75b2c0/jobs/14
 
 ## Project Overview
 
