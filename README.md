@@ -1,4 +1,4 @@
-https://app.circleci.com/pipelines/github/Babawale/Udacity-DevOps-ML_Project/14/workflows/261e1f03-af78-4e51-a940-8c788f75b2c0/jobs/14
+[![CircleCI](https://circleci.com/gh/Babawale/Udacity-DevOps-ML_Project.svg?style=svg)](https://circleci.com/gh/Babawale/Udacity-DevOps-ML_Project)
 
 ## Project Overview
 
