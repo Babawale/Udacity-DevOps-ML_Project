@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Babawale/Udacity-DevOps-ML_Project.svg?style=svg)](https://circleci.com/gh/Babawale/Udacity-DevOps-ML_Project)
+[![CircleCI](https://circleci.com/gh/Babawale/udacity-devops-ml-api-project.svg?style=svg)](https://circleci.com/gh/Babawale/udacity-devops-ml-api-project)
 
 ## Project Overview
 
